@@ -1,0 +1,3 @@
+[console_scripts]
+Tarea3 = Tarea3:Main
+

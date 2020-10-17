@@ -1,0 +1,10 @@
+README.md
+setup.py
+Metodos/Tarea3.py
+Metodos/__init__.py
+Metodos.egg-info/PKG-INFO
+Metodos.egg-info/SOURCES.txt
+Metodos.egg-info/dependency_links.txt
+Metodos.egg-info/entry_points.txt
+Metodos.egg-info/requires.txt
+Metodos.egg-info/top_level.txt
