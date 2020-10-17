@@ -18,7 +18,7 @@ setup(
     author='Carlos_Joseph_Adrian_Emmanuel', 
     packages=['Metodos'],
     python_requires='>=3',
-    install_requires=['tabulate', 'playsound', 'cv2', 'numpy', 'PIL', 'sys', 'argparse', 'time'],
+    install_requires=['tabulate', 'playsound', 'opencv-constrib-python', 'pillow', 'argparse' ],
     entry_points={
         'console_scripts': [
            'Tarea3=Tarea3:Main',
